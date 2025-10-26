@@ -17,7 +17,7 @@ This repository contains our submissions for both tasks of the astrophysics data
   - cleaned_dataset.csv → cleaned dataset
   - cleaned_dataset.xlsx → optional Excel version
 
-## 🧠 Team
+## Team
 *Team Name:* Space Xplorers  
 *Members:* 1. V. Kavyanjali
            2. Disha Hebbar
