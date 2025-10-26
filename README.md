@@ -17,8 +17,12 @@ This repository contains our submissions for both tasks of the astrophysics data
   - cleaned_dataset.csv → cleaned dataset
   - cleaned_dataset.xlsx → optional Excel version
 
+## 📁 Bonus: Machine Learning Model
+- Jupyter Notebook containing the model training code.
+- Detects which passengers were transported by the anomaly.
+
 ## Team
 *Team Name:* Space Xplorers  
-*Members:* 1. V. Kavyanjali
-           2. Disha Hebbar
-           3. Avani Kasar
+*Members:* 1. V. Kavyanjali (MC25BT029)
+           2. Disha Hebbar (IS25BM030)
+           3. Avani Kasar (MC25BT027)
