@@ -11,7 +11,6 @@ This repository contains our submissions for both tasks of the astrophysics data
   - FITS_description.pdf → report explaining the astrophysical significance
 
 ## 📁 Task 2: Data Cleaning
-- Folder: Task_2_Data_Cleaning/
 - Notebook: SpaceXplorers_notebook_cleaning.ipynb
 - Contains:
   - cleaned_dataset.csv → cleaned dataset
